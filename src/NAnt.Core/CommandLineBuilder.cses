@@ -1,0 +1,4 @@
+if (args.Contains("--ari")) {
+    Console.WriteLine("BTP605 - Ari");
+}
+
